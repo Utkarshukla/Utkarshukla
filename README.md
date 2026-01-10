@@ -151,17 +151,6 @@ Experienced Lead Backend Developer skilled in building scalable e-commerce syste
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utkarshukla&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshukla&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Utkarshukla&theme=radical&hide_border=true&background=0D1117)
-
-</div>
 
 ---
 
